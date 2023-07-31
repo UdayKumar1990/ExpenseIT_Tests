@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{232BD380-509C-4436-BC4A-4CA358D33825}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="ExpenseIt9" Key="{63972F4F-5312-49B7-B332-85AD4BE894BC}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="ExpenseIt9" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="HwndSource_MainWindow" Key="{88E76A08-4DDE-4745-8DAA-D18ADA4C884D}">
+								<Image FileName="-754720341" Left="0" Top="0" Right="625" Bottom="438" />
+								<Properties>
+									<Property Name="RootVisual.ClrClassName">
+										<Value Value="MainWindow" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="ExpenseIt" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="appwindow" Key="{68EA5244-92EE-419F-8622-60B4BC7336D7}">
+										<Image FileName="-754720341" Left="9" Top="38" Right="635" Bottom="477" />
+										<Properties>
+											<Property Name="ClrFullClassName">
+												<Value Value="ExpenseIt9.ExpenseIt.MainWindow" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="peopleListBox" Key="{E74414BD-CDB1-4746-B8D3-D9FDABB066FB}" ExtendedFind="True">
+												<Image FileName="-754720341" Left="309" Top="246" Right="604" Bottom="373" />
+												<Properties>
+													<Property Name="WPFControlName">
+														<Value Value="peopleListBox" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="ButtonView" Key="{6C89E6D4-1717-47F4-8705-C14177CCF8CA}" ExtendedFind="True">
+												<Image FileName="-1975121557" Left="447" Top="385" Right="604" Bottom="417" />
+												<TypeInfo Item0="{78863249-8435-4233-98A4-8B443AC0469D}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Button" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="View" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="DataGrid" Key="{0359CE2C-CDE4-4C3E-9B44-7C17F06ED7F7}" ExtendedFind="True">
+												<Image FileName="1332064662" Left="309" Top="204" Right="485" Bottom="298" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.DataGrid" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TextBox" Key="{FA4DEA53-DB0A-41F9-A6E9-A130824DEF8D}" ExtendedFind="True">
+														<Image FileName="2015535949" Left="416" Top="250" Right="481" Bottom="271" />
+														<TypeInfo Item0="{4855716D-98B6-4F1A-A894-26D1685B2381}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="System.Windows.Controls.TextBox" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="Datagridcell50" Key="{D56580FE-C7BC-41A3-ADB9-58B774FFCBFA}" ExtendedFind="True">
+														<Image FileName="1124204047" Left="414" Top="272" Right="484" Bottom="297" />
+														<TypeInfo Item0="{6A913F2E-5FB2-47BF-B8A5-91E247C88113}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="System.Windows.Controls.DataGridCell" />
+															</Property>
+															<Property Name="WPFControlText">
+																<Value Value="50" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="TextBox" Key="{EEB7C9D7-1D3B-4342-952A-465FCB8CE9C8}" ExtendedFind="True">
+																<Image FileName="-1584470565" Left="416" Top="273" Right="481" Bottom="294" />
+																<TypeInfo Item0="{4855716D-98B6-4F1A-A894-26D1685B2381}" />
+																<Properties>
+																	<Property Name="ClrFullClassName">
+																		<Value Value="System.Windows.Controls.TextBox" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="nameLabel" Key="{F65D873B-0DAF-4231-9AF5-F03AD1C7AAD8}" ExtendedFind="True">
+												<Image FileName="1989114151" Left="367" Top="126" Right="415" Bottom="160" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.Label" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="TextblockMike" Key="{0EAFA2D0-F1BB-4236-889D-C15E3F48C248}" ExtendedFind="True">
+														<Image FileName="1930562000" Left="373" Top="132" Right="409" Bottom="153" />
+														<TypeInfo Item0="{8A55DAE4-9E59-47C7-A27D-C68FF82045E1}" />
+														<Properties>
+															<Property Name="ClrFullClassName">
+																<Value Value="System.Windows.Controls.TextBlock" />
+															</Property>
+															<Property Name="WPFControlText">
+																<Value Value="Mike" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="TextblockLegal" Key="{DC6FCDAF-5433-4AB7-891A-D3554DB3E8E7}" ExtendedFind="True">
+												<Image FileName="1173351105" Left="417" Top="171" Right="455" Bottom="192" />
+												<TypeInfo Item0="{8A55DAE4-9E59-47C7-A27D-C68FF82045E1}" />
+												<Properties>
+													<Property Name="ClrFullClassName">
+														<Value Value="System.Windows.Controls.TextBlock" />
+													</Property>
+													<Property Name="WPFControlText">
+														<Value Value="Legal" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{9EE7C6FA-ADC3-486B-BDFF-50F47EA54DB3}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{A5C68050-F43F-4C76-8EA3-71813D597A0A}">
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_TrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DesktopWindowXamlSource" Key="{09F3B99A-C2E0-4E55-A48C-17D068FC0554}">
+										<TypeInfo Item0="{7BEE52B5-612A-4CF5-8DA9-6AB57657F26C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Windows.UI.Composition.DesktopWindowContentBridge" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="DesktopWindowXamlSource" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="ExpenseIt9" Owner="{63972F4F-5312-49B7-B332-85AD4BE894BC}">
+			<Child Name="HwndSource_MainWindow" Owner="{88E76A08-4DDE-4745-8DAA-D18ADA4C884D}">
+				<Child Name="appwindow" Owner="{68EA5244-92EE-419F-8622-60B4BC7336D7}">
+					<Child Name="peopleListBox" Owner="{E74414BD-CDB1-4746-B8D3-D9FDABB066FB}" />
+					<Child Name="ButtonView" Owner="{6C89E6D4-1717-47F4-8705-C14177CCF8CA}" />
+					<Child Name="DataGrid" Owner="{0359CE2C-CDE4-4C3E-9B44-7C17F06ED7F7}">
+						<Child Name="TextBox" Owner="{FA4DEA53-DB0A-41F9-A6E9-A130824DEF8D}" />
+						<Child Name="Datagridcell50" Owner="{D56580FE-C7BC-41A3-ADB9-58B774FFCBFA}">
+							<Child Name="TextBox" Owner="{EEB7C9D7-1D3B-4342-952A-465FCB8CE9C8}" />
+						</Child>
+					</Child>
+					<Child Name="NameLabel" Owner="{F65D873B-0DAF-4231-9AF5-F03AD1C7AAD8}">
+						<Child Name="TextblockMike" Owner="{0EAFA2D0-F1BB-4236-889D-C15E3F48C248}" />
+					</Child>
+					<Child Name="TextblockLegal" Owner="{DC6FCDAF-5433-4AB7-891A-D3554DB3E8E7}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{9EE7C6FA-ADC3-486B-BDFF-50F47EA54DB3}">
+			<Child Name="wndShell_TrayWnd" Owner="{A5C68050-F43F-4C76-8EA3-71813D597A0A}">
+				<Child Name="DesktopWindowXamlSource" Owner="{09F3B99A-C2E0-4E55-A48C-17D068FC0554}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
